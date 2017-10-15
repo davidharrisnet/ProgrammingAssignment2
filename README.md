@@ -1,6 +1,8 @@
 ### Introduction
 
-# Modified by Me
+# Modified by David Harris
+# davidharrisnet@gmail.com
+
 
  
 This second programming assignment will require you to write an R
